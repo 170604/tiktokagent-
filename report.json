@@ -1,0 +1,20 @@
+{
+  "subject": "trading",
+  "country": "us",
+  "generated_at": 1725100000.123,
+  "creators": [
+    {
+      "username": "@someuser",
+      "profile_url": "https://www.tiktok.com/@someuser",
+      "videos": [
+        {
+          "url": "https://www.tiktok.com/@someuser/video/1234567890",
+          "caption": "How I scalp SPY ... #trading",
+          "page_title": "Some title – TikTok",
+          "sentiment": "positive",
+          "virality_reasons": "Clear hook, quick tips, trend sound..."
+        }
+      ]
+    }
+  ]
+}
