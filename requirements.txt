@@ -1,0 +1,21 @@
+# Core framework
+crewai==0.175.0
+crewai-tools==0.0.1
+
+# HTTP requests
+httpx==0.27.0
+
+# Playwright for scraping
+playwright==1.47.0
+
+# Google Gemini API
+google-cloud-aiplatform==1.71.1
+
+# Retry handling
+tenacity==9.0.0
+
+# Logging
+loguru==0.7.2
+
+# Env handling
+python-dotenv==1.0.1
